@@ -1,0 +1,7 @@
+spouštìní programu:
+ruby -I . lib\main.rb
+
+spouštìní testu:
+ruby -I . test/intersection_test.rb
+
+Dokumentace je umístìna ve složce doc.
